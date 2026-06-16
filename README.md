@@ -1,4 +1,4 @@
-# riverpod_flutter
+# riverpods_demo1
 
 A new Flutter project.
 
